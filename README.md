@@ -1,0 +1,1 @@
+This project demonstrates how VBScript can be used to trigger UAC elevation using ShellExecute ("runas") and how attackers abuse this technique for privilege escalation and defense evasion. It also includes detection strategies using Windows Event Logs, Sysmon, and Elastic SIEM.
